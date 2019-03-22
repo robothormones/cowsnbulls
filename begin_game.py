@@ -203,4 +203,4 @@ def make_word_list(word_len):
     
 
     
-# play_cowsnbulls()
+play_cowsnbulls()
